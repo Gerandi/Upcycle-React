@@ -10,7 +10,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: flex-end;
-  background-image: url("/playground_assets/rectangle%2035-1500w.png");
+  background-image: url("https://play.teleporthq.io/static/svg/placeholders/no-image.svg");
 }
 .card-info {
   flex: 0 0 auto;

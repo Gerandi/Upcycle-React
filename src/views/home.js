@@ -28,7 +28,7 @@ const Home = (props) => {
           <div className="home-logo">
             <img
               alt="image"
-              src="/playground_assets/beige%20and%20brown%20minimalist%20elegant%20wardrobe%20-%20logo%20%5B2%5D%20%5B1%5D-200h.png"
+              src="/playground_assets/beige%2520and%2520brown%2520minimalist%2520elegant%2520wardr-200h.png"
               className="home-image"
             />
           </div>
@@ -69,7 +69,7 @@ const Home = (props) => {
           <div className="home-image1">
             <img
               alt="image"
-              src="https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fGNsb3RoZXMlMjB1c2VkfGVufDB8fHx8MTY1NDI1MzA2Mw&amp;ixlib=rb-1.2.1&amp;w=600"
+              src="/playground_assets/photo-1532453288672-3a27e9be9efd1-600w.jpg"
               className="home-hero-image"
             />
             <img
