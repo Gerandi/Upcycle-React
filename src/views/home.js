@@ -39,7 +39,7 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="hero-container section-container">
+      <div className="hero-container section-container home-hero">
         <div className="home-max-width1 max-width">
           <div className="home-content">
             <span className="home-subtitle before-Heading">
