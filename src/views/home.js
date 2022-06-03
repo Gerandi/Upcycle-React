@@ -11,12 +11,12 @@ const Home = (props) => {
         <title>Upcycle Albania</title>
         <meta
           name="description"
-          content="Give a new life to your old clothes. Sustainable fashion done right."
+          content="The next big thing in sustainable fashion. Coming Soon."
         />
         <meta property="og:title" content="Upcycle Albania" />
         <meta
           property="og:description"
-          content="Give a new life to your old clothes. Sustainable fashion done right."
+          content="The next big thing in sustainable fashion. Coming Soon."
         />
         <meta
           property="og:image"
